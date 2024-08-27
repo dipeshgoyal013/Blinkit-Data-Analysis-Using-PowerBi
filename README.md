@@ -1,2 +1,4 @@
-# Blinkit-Data-Analysis-Using-PowerBi
-Blinkit Sales dashboard using PowerBi which helps you to understand about sales pattern by outlet.
+## Blinkit-Data-Analysis-Using-PowerBi
+### Objective:-
+It's helps to understand about sales pattern in outlet. with the help of this dashboard we can under sales by every outlet location.
+![image](https://github.com/user-attachments/assets/4cd5952c-534a-477b-88c4-255cad076189)
